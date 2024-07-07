@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(218, 166, 211);
+}
+h1 {
+    color: blueviolet;
+    font-family: 40px;
+}
+p {
+    color: rgb(26, 73, 73);
+}
+#otsikko {
+    color: red;
+}
+#Etusivu {
+    color: brown;
+}
